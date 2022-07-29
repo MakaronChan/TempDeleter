@@ -6,9 +6,12 @@ this is Auto Temp Deleter.
 2. Run TempDeleter.bat
 3. End. you pc is optimized.
 
+
 # Japanese (日本語)
+
+#### どうやって使うの?
+
 | 選択肢 | 実行する内容 |
 | -------- | ---- |
 | 1 | `すべて自動で不要なファイルを削除します。` |
 | 2 | `指定した不要なファイルだけ削除します。` |
-
