@@ -1,11 +1,4 @@
 # Temp Deleter 2.0
-this is Auto Temp Deleter.
-
-# How to use
-1. Download TempDeleter.bat
-2. Run TempDeleter.bat
-3. End. you pc is optimized.
-
 
 # Japanese (日本語)
 
@@ -24,3 +17,27 @@ this is Auto Temp Deleter.
 | -------- | ---- |
 | 1 | `すべて自動で不要なファイルを削除します。` |
 | 2 | `指定した不要なファイルだけ削除します。` |
+
+#### これで結構PCが軽くなると思います。
+#### PCを起動、再起動、ゲームを終えた後などにすることを推奨します。
+
+# English (US)
+
+### How to use?
+
+```console
+1. Download the latest TempDeleter from https://github.com/MakaronChan/TempDeleter/releases
+2. Run the downloaded TempDeleter.bat.
+3. Please enter a number from the choices below to do so. Recommended is "1".
+4. That's it.
+```
+
+### Options
+
+| Options | Execute |
+| -------- | ---- |
+| 1 | `All automatically delete temp files.` |
+| 2 | `Delete only the specified temp files.` |
+
+#### This will lighten up your PC quite a bit.
+#### It is recommended that you do this after starting, rebooting, or finishing a game on your PC.
