@@ -9,7 +9,7 @@ this is Auto Temp Deleter.
 
 # Japanese (日本語)
 
-## どうやって使うの?
+### どうやって使うの?
 
 1.
 
