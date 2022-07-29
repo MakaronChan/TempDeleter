@@ -6,9 +6,7 @@ this is Auto Temp Deleter.
 2. Run TempDeleter.bat
 3. End. you pc is optimized.
 
-| Platform | File |
+| 選択肢 | 実行する内容 |
 | -------- | ---- |
-| Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Helios-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
+| 1 | `すべて自動で不要なファイルを削除します。` |
+| 2 | `指定した不要なファイルだけ削除します。` |
