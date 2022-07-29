@@ -11,7 +11,14 @@ this is Auto Temp Deleter.
 
 ### どうやって使うの?
 
-1.
+```console
+1. https://github.com/MakaronChan/TempDeleter/releases から最新のTempDeleterをダウンロードしてください。2
+2. ダウンロードしたTempDeleter.batを実行します。
+3. 下の選択肢から、番号を入力して、実行してください。推奨は「 1 」です。
+4. これで終わりです。
+```
+
+### 選択肢
 
 | 選択肢 | 実行する内容 |
 | -------- | ---- |
